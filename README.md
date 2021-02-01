@@ -1,13 +1,16 @@
 # Hi there 👋
 
-## 🔭 I’m currently working on 
+## 🔭 I’m currently working on
+betdynamo as a Python Developer for Profit Accumulator
 adoor as a Full Stack Web Developer
 
 ## 🌱 I’m currently learning
-Google Cloud Platform
+Heroku
 
 ## 💬 Ask me about
 Django
+GCP
+Matched Betting
 
 <!--
 **jefferies917/jefferies917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
