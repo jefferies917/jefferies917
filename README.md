@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on
-- betdynamo as a Python Developer for Profit Accumulator
+- Profit Accumulator as a Python Developer
 - adoor as a Full Stack Web Developer
 
 ## 🌱 I’m currently learning
