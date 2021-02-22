@@ -6,7 +6,8 @@
 - [Hung Leng Kuen Website](https://www.hlksoton.co.uk)
 
 ## 🌱 I’m currently learning
-Heroku
+- Heroku
+- Bulma
 
 ## 💬 Ask me about
 - Django
