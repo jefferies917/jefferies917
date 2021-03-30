@@ -7,7 +7,7 @@
 
 ## 🌱 I’m currently learning
 - Heroku
-- Bulma
+- Web Scraping
 
 ## 💬 Ask me about
 - Django
