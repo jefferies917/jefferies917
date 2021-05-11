@@ -6,12 +6,11 @@
 - [Hung Leng Kuen Website](https://www.hlksoton.co.uk)
 
 ## 🌱 I’m currently learning
-- Heroku
+- React
 - Web Scraping
 
 ## 💬 Ask me about
 - Django
-- GCP
 - Matched Betting
 
 <!--
