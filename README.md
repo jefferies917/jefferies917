@@ -7,11 +7,12 @@
 
 ## 🌱 I’m currently learning
 - React
-- Web Scraping
+- Serverless
 
 ## 💬 Ask me about
 - Django
 - Matched Betting
+- Web Scraping
 
 <!--
 **jefferies917/jefferies917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
