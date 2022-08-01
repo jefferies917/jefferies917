@@ -2,17 +2,20 @@
 
 ## 🔭 I’m currently working on
 - Profit Accumulator as a Python Developer
-- adoor as a Full Stack Web Developer
 - [Hung Leng Kuen Website](https://www.hlksoton.co.uk)
+- Open Source Projects
 
 ## 🌱 I’m currently learning
-- React
-- Serverless
+- Cloud Services
+- DevOps
 
 ## 💬 Ask me about
 - Django
 - Matched Betting
 - Web Scraping
+
+## 📫 How to reach me
+- lukejefferiesuk@gmail.com
 
 <!--
 **jefferies917/jefferies917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
