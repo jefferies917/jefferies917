@@ -6,6 +6,7 @@
 - Open Source Projects
 
 ## 🌱 I’m currently learning
+- ![image](https://www.codewars.com/users/jefferies917/badges/small)
 - Cloud Services
 - DevOps
 
