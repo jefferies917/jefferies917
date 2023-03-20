@@ -1,17 +1,17 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on
-- Profit Accumulator as a Python Developer
+- Software Developer at TJB
 - [Hung Leng Kuen Website](https://www.hlksoton.co.uk)
 - Open Source Projects
 
 ## 🌱 I’m currently learning
 - ![image](https://www.codewars.com/users/jefferies917/badges/small)
-- Cloud Services
-- DevOps
+- Cloud Services, GCP
+- Typescript, Angular
 
 ## 💬 Ask me about
-- Django
+- Django, Full Stack Development
 - Matched Betting
 - Web Scraping
 
