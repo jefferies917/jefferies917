@@ -17,6 +17,7 @@
 
 ## 📫 How to reach me
 - lukejefferiesuk@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jefferies917/)
 
 <!--
 **jefferies917/jefferies917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
