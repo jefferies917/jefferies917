@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on
-- Senior Software Developer at TJB
+- Senior Software Developer on multiple projects
 - [Hung Leng Kuen Website](https://www.hlksoton.co.uk)
 - Open Source Projects
 
@@ -11,7 +11,7 @@
 - Typescript, Angular
 
 ## 💬 Ask me about
-- Django, Full Stack Development, GCP
+- Django, Full Stack Development, Cloud Solutions
 - Matched Betting
 - Web Scraping
 
